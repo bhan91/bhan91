@@ -4,9 +4,6 @@
 I am Engineering student!
 
 
-# 💫 About Me:
-I am Engineering student
-
 ## 🌐 Social Connect: [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/invite/EJ92bjTV) 
 
 # 💻 Tech Stack:
