@@ -13,8 +13,5 @@ I am Engineering student!
 ![](https://github-readme-streak-stats.herokuapp.com/?user=bhan91&theme=github_dark_dimmed&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bhan91&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=bhan91&limit=5&theme=shadow_green&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=bhan91&icon=5&color=3)](https://visitcount.itsvg.in)
