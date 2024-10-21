@@ -14,4 +14,4 @@
 [![](https://visitcount.itsvg.in/api?id=bhan91&icon=5&color=3)](https://visitcount.itsvg.in)
 
 ## Programming Languages Chart
-Check out my [Programming Languages Chart](https://github.com/bhan91/prgm_chart.git) to see the languages I work with!
+Check out my [Programming Languages Chart](https://bhan91.github.io/prgm_chart) to see the languages I work with!) to see the languages I work with!
