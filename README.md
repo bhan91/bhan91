@@ -1,8 +1,4 @@
-
- <html>
- <h1> Bhanuprakash <h1/>
- <html/>
-
+ <h1> Im, Bhanuprakash 👨‍💻<h1/>
 # Connect: [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/bHqJQvJQ) 
 
 # Tech Known:
